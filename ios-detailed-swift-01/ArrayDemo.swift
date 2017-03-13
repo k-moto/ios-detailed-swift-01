@@ -9,7 +9,7 @@
 import Foundation
 
 
-class arrayDemo{
+class ArrayDemo{
     
     init(){
         

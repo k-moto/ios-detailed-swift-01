@@ -13,7 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         
-        let arraydemo = arrayDemo()
+        let arraydemo = ArrayDemo()
         arraydemo.arrayAppend1()
         arraydemo.arrayAppend2()
 
